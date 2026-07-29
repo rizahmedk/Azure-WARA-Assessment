@@ -1,0 +1,22 @@
+# WARA output files — never commit actual assessment data
+WARA-Output/
+WARA-Run-*/
+*.json
+Expert-Analysis*.xlsx
+Assessment-Report*.docx
+Executive-Summary*.pptx
+WARA_File_*.json
+WARA-File-*.json
+
+# PowerShell
+*.ps1xml
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
