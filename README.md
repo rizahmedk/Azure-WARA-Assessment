@@ -6,7 +6,7 @@ Automatically discovers subscriptions, runs the collector, and produces an
 Excel Action Plan with all findings — no manual steps required.
 
 Built and maintained by [Riyaz Hussain](https://github.com/riyazhussain) —
-Associate Director of Infrastructure & Cloud Architecture at Kyndryl.
+
 
 ---
 
